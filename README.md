@@ -22,8 +22,6 @@ This project demonstrates practical implementation of **structures, modular prog
 ## Project Structure
 Student-Management-System/
 
-│
-
 ├── add_student.c
 
 ├── delete_student.c
