@@ -21,13 +21,24 @@ This project demonstrates practical implementation of **structures, modular prog
 
 ## Project Structure
 Student-Management-System/
+
 │
+
 ├── add_student.c
+
 ├── delete_student.c
+
 ├── search_student.c
+
 ├── update_student.c
+
 ├── sort_students.c
+
 ├── viewall_students.c
+
 ├── dashboard.c
+
 ├── student.h
+
 └── README.md
+
